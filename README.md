@@ -1,6 +1,9 @@
+>   
+>   
+>   
 - 👋 Hi, I’m @95mg
-- 👀 I’m interested in React, JavaScript
-- 🌱 I’m currently learning TypeScript and variety React Library
+- 👀 I’m interested in React, JavaScript and better web accessibility for everyone.
+- 🌱 I’m currently learning TypeScript and variety React Library.
 - 📫 How to reach raininmate@gmail.com
 
 <!---
